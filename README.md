@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection | ML Project 
 
-#### In This Project I **Developed** and **Deployed** a Machine Learning Model Using **Python**, **Logistic Regression**, **Google Colaboratory**.
+#### In This Project I **Developed** and **Deployed** a Machine Learning Model Using **Python**, **Logistic Regression** & **Google Colaboratory**.
 <br>
 - I Chooses **Logistic Regression Model** since it works well with **Predicting the Probabilities between any Two Classes** & as I have
 to predict whether the **Transaction is Fraudulent or Not** I preferred this model.
